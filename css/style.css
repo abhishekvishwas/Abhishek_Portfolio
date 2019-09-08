@@ -82,6 +82,12 @@ a:hover{
 
 .intro{
   color: #84f2d6;
+
+}
+
+.i-am{
+  width: 30%;
+  margin: auto;
 }
 
 .home{
@@ -96,6 +102,7 @@ a:hover{
 
 .lines{
   margin-top: 200px;
+  width: 100%;
 }
 
 .logo{
@@ -121,6 +128,8 @@ margin-right: 30px;
 
 .pofile-pic{
   width: 25%;
+  position: relative;
+  right: 3%;
 }
 
 .skill-row{
@@ -143,3 +152,4 @@ margin-right: 30px;
   background-color: #ff7f5b;
   padding-top: 50px;
 }
+
